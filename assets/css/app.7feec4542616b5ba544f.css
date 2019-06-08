@@ -1,0 +1,95 @@
+/*!
+ * Raleway font (https://webfonts.pro/base-web-fonts/sans-serif-grotesque/613-raleway.html)
+ *
+ * All known font formats:
+ * .eot             IE9 Compact Modes
+ * .eot?#iefix      IE6-IE8
+ * .woff2           Super Modern Browsers
+ * .woff            Pretty Modern Browsers
+ * .ttf             Safari, Android, iOS
+ * .svg#svgFontName Legacy iOS
+ */
+
+/* Thin */
+@font-face {
+    font-family: 'Raleway';
+    font-weight: 100;
+    src: url('https://cdn.bizzon.online/assets/fonts/Raleway-Thin.eot');
+    src: url('https://cdn.bizzon.online/assets/fonts/Raleway-Thin.eot?#iefix') format('embedded-opentype'),
+    url('https://cdn.bizzon.online/assets/fonts/Raleway-Thin.woff') format('woff'),
+    url('https://cdn.bizzon.online/assets/fonts/Raleway-Thin.ttf')  format('truetype');
+}
+/* ExtraLight */
+@font-face {
+    font-family: 'Raleway';
+    font-weight: 200;
+    src: url('https://cdn.bizzon.online/assets/fonts/Raleway-ExtraLight.eot');
+    src: url('https://cdn.bizzon.online/assets/fonts/Raleway-ExtraLight.eot?#iefix') format('embedded-opentype'),
+    url('https://cdn.bizzon.online/assets/fonts/Raleway-ExtraLight.woff') format('woff'),
+    url('https://cdn.bizzon.online/assets/fonts/Raleway-ExtraLight.ttf')  format('truetype');
+}
+/* Light */
+@font-face {
+    font-family: 'Raleway';
+    font-weight: 300;
+    src: url('https://cdn.bizzon.online/assets/fonts/Raleway-Light.eot');
+    src: url('https://cdn.bizzon.online/assets/fonts/Raleway-Light.eot?#iefix') format('embedded-opentype'),
+    url('https://cdn.bizzon.online/assets/fonts/Raleway-Light.woff') format('woff'),
+    url('https://cdn.bizzon.online/assets/fonts/Raleway-Light.ttf')  format('truetype');
+}
+/* Regular */
+@font-face {
+    font-family: 'Raleway';
+    font-weight: 400;
+    src: url('https://cdn.bizzon.online/assets/fonts/Raleway-Regular.eot');
+    src: url('https://cdn.bizzon.online/assets/fonts/Raleway-Regular.eot?#iefix') format('embedded-opentype'),
+    url('https://cdn.bizzon.online/assets/fonts/Raleway-Regular.woff') format('woff'),
+    url('https://cdn.bizzon.online/assets/fonts/Raleway-Regular.ttf')  format('truetype');
+}
+/* Medium */
+@font-face {
+    font-family: 'Raleway';
+    font-weight: 500;
+    src: url('https://cdn.bizzon.online/assets/fonts/Raleway-Medium.eot');
+    src: url('https://cdn.bizzon.online/assets/fonts/Raleway-Medium.eot?#iefix') format('embedded-opentype'),
+    url('https://cdn.bizzon.online/assets/fonts/Raleway-Medium.woff') format('woff'),
+    url('https://cdn.bizzon.online/assets/fonts/Raleway-Medium.ttf')  format('truetype');
+}
+/* SemiBold */
+@font-face {
+    font-family: 'Raleway';
+    font-weight: 600;
+    src: url('https://cdn.bizzon.online/assets/fonts/Raleway-SemiBold.eot');
+    src: url('https://cdn.bizzon.online/assets/fonts/Raleway-SemiBold.eot?#iefix') format('embedded-opentype'),
+    url('https://cdn.bizzon.online/assets/fonts/Raleway-SemiBold.woff') format('woff'),
+    url('https://cdn.bizzon.online/assets/fonts/Raleway-SemiBold.ttf')  format('truetype');
+}
+/* Bold */
+@font-face {
+    font-family: 'Raleway';
+    font-weight: 700;
+    src: url('https://cdn.bizzon.online/assets/fonts/Raleway-Bold.eot');
+    src: url('https://cdn.bizzon.online/assets/fonts/Raleway-Bold.eot?#iefix') format('embedded-opentype'),
+    url('https://cdn.bizzon.online/assets/fonts/Raleway-Bold.woff') format('woff'),
+    url('https://cdn.bizzon.online/assets/fonts/Raleway-Bold.ttf')  format('truetype');
+}
+/* ExtraBold */
+@font-face {
+    font-family: 'Raleway';
+    font-weight: 800;
+    src: url('https://cdn.bizzon.online/assets/fonts/Raleway-ExtraBold.eot');
+    src: url('https://cdn.bizzon.online/assets/fonts/Raleway-ExtraBold.eot?#iefix') format('embedded-opentype'),
+    url('https://cdn.bizzon.online/assets/fonts/Raleway-ExtraBold.woff') format('woff'),
+    url('https://cdn.bizzon.online/assets/fonts/Raleway-ExtraBold.ttf')  format('truetype');
+}
+/* Black */
+@font-face {
+    font-family: 'Raleway';
+    font-weight: 900;
+    src: url('https://cdn.bizzon.online/assets/fonts/Raleway-Black.eot');
+    src: url('https://cdn.bizzon.online/assets/fonts/Raleway-Black.eot?#iefix') format('embedded-opentype'),
+    url('https://cdn.bizzon.online/assets/fonts/Raleway-Black.woff') format('woff'),
+    url('https://cdn.bizzon.online/assets/fonts/Raleway-Black.ttf')  format('truetype');
+}
+
+html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:block}h1{font-size:2em;margin:.67em 0}hr{-webkit-box-sizing:content-box;box-sizing:content-box;height:0;overflow:visible}pre{font-family:monospace,monospace;font-size:1em}a{background-color:rgba(0,0,0,0)}abbr[title]{border-bottom:none;text-decoration:underline;-webkit-text-decoration:underline dotted;text-decoration:underline dotted}b,strong{font-weight:bolder}code,kbd,samp{font-family:monospace,monospace;font-size:1em}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}img{border-style:none}button,input,optgroup,select,textarea{font-family:inherit;font-size:100%;line-height:1.15;margin:0}button,input{overflow:visible}button,select{text-transform:none}[type=button],[type=reset],[type=submit],button{-webkit-appearance:button}[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner{border-style:none;padding:0}[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[type=submit]:-moz-focusring,button:-moz-focusring{outline:1px dotted ButtonText}fieldset{padding:.35em .75em .625em}legend{-webkit-box-sizing:border-box;box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal}progress{vertical-align:baseline}textarea{overflow:auto}[type=checkbox],[type=radio]{-webkit-box-sizing:border-box;box-sizing:border-box;padding:0}[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}[type=search]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}details{display:block}summary{display:list-item}[hidden],template{display:none}@-webkit-keyframes bubble1{0%{-webkit-transform:scale(1);transform:scale(1)}to{-webkit-transform:scale(1.4);transform:scale(1.4)}}@keyframes bubble1{0%{-webkit-transform:scale(1);transform:scale(1)}to{-webkit-transform:scale(1.4);transform:scale(1.4)}}@-webkit-keyframes bubble2{0%{-webkit-transform:scale(1);transform:scale(1)}to{-webkit-transform:scale(1.2);transform:scale(1.2)}}@keyframes bubble2{0%{-webkit-transform:scale(1);transform:scale(1)}to{-webkit-transform:scale(1.2);transform:scale(1.2)}}@-webkit-keyframes bubble3{0%{-webkit-transform:scale(1);transform:scale(1)}to{-webkit-transform:scale(1.6);transform:scale(1.6)}}@keyframes bubble3{0%{-webkit-transform:scale(1);transform:scale(1)}to{-webkit-transform:scale(1.6);transform:scale(1.6)}}.clickable_g{-webkit-transition:.3s;-o-transition:.3s;transition:.3s;cursor:pointer}.clickable_g:hover{opacity:.7}.box-shadow-dark_g{-webkit-box-shadow:0 4px 4px rgba(0,0,0,.25);box-shadow:0 4px 4px rgba(0,0,0,.25)}.text-shadow-dark_g{text-shadow:0 4px 4px #000}.header_md{position:absolute;width:100%;z-index:2}.header_md.fixed{position:fixed;width:100%;background-color:#fff;-webkit-transition:.3s;-o-transition:.3s;transition:.3s;-webkit-box-shadow:0 4px 10px rgba(205,214,221,.59);box-shadow:0 4px 10px rgba(205,214,221,.59)}.header_md.fixed:hover{opacity:1}.header_md.fixed>.content-wrapper_ar{height:60px}.header_md>.content-wrapper_ar{height:80px;text-transform:uppercase;display:-webkit-box;display:-ms-flexbox;display:flex;font-size:.8rem;font-weight:700;letter-spacing:.5px;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}.header_md>.content-wrapper_ar .auth_md i{font-size:1rem}.main-nav_md{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.main-nav_md>.item{margin-right:1.5rem;margin-left:1.5rem}.main-nav_md>.item .inner{display:none}.auth_md .non-authed-state{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;line-height:1}.auth_md .non-authed-state i{margin-left:.4rem;margin-top:-3px}.title-box_md .big{margin-bottom:2rem}.title-box_md .middle{margin-bottom:4rem}.main-screen-img_md{position:relative}.main-screen-img_md .bubbles{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;margin-bottom:2rem}.main-screen-img_md .bubbles .bubble{background-image:url(https://files.bizzon.online/mainpage-v2/img/check_blue.svg);background-repeat:no-repeat;-webkit-transition:.6s;-o-transition:.6s;transition:.6s}.main-screen-img_md .bubbles .bubble:first-child{width:3rem;height:3rem;margin-right:20px;-webkit-animation:bubble1 3s infinite alternate;animation:bubble1 3s infinite alternate}.main-screen-img_md .bubbles .bubble:nth-child(2){width:2rem;height:2rem;margin-top:-20px;margin-right:20px;-webkit-animation:bubble2 6s infinite alternate;animation:bubble2 6s infinite alternate}.main-screen-img_md .bubbles .bubble:nth-child(3){width:2rem;height:2rem;margin-right:120px;-webkit-animation:bubble3 5s infinite alternate;animation:bubble3 5s infinite alternate}.main-screen-img_md .bubbles .bubble:nth-child(4){width:2rem;height:2rem;margin-right:30px;-webkit-animation:bubble2 3s infinite alternate;animation:bubble2 3s infinite alternate}.main-screen-img_md .bubbles .bubble:nth-child(5){width:1.5rem;height:1.5rem;margin-right:20px;-webkit-animation:bubble1 6s infinite alternate;animation:bubble1 6s infinite alternate}.main-screen-img_md .bubbles .bubble:nth-child(6){margin-top:40px;position:absolute;-webkit-animation:bubble3 7s infinite alternate;animation:bubble3 7s infinite alternate;right:0;width:3rem;height:3rem}.main-screen-img_md .bubbles .bubble:hover{border-radius:50%;-webkit-animation-duration:.3s;animation-duration:.3s}.courses-tabs_md{width:60%;text-align:right}.courses-tabs_md .item{padding:1rem;margin-bottom:1rem;font-weight:500;cursor:pointer;-webkit-transition:margin-right .3s;-o-transition:margin-right .3s;transition:margin-right .3s;position:relative;-webkit-box-shadow:0 4px 10px rgba(205,214,221,.59);box-shadow:0 4px 10px rgba(205,214,221,.59)}.courses-tabs_md .item.selected,.courses-tabs_md .item:hover{background:#2e4557;color:#78c2ff;font-weight:700;margin-right:-1.3rem}.courses-tabs_md .item.selected:after{content:"\f054";font-family:FontAwesome;position:absolute;right:-1.6rem;color:#2e4557}.course-view_md .title_md.big{margin-bottom:1rem}.course-view_md .badges,.course-view_md .title_md.middle{margin-bottom:3rem}.course-view_md .badges .item{padding:5px 20px;font-weight:600;background-color:#fff06c;font-size:.8rem;margin-bottom:.5rem;margin-right:.5rem;display:inline-block;color:#2e4557}.course-view_md .price{color:#fff;margin-bottom:5rem;font-size:1.1rem}.course-view_md .price .min{font-size:2.5rem;line-height:0;font-weight:700;margin:0 .5rem}.teachers_md{-ms-flex-wrap:wrap;flex-wrap:wrap;margin:-1%}.teachers_md,.teachers_md .item{display:-webkit-box;display:-ms-flexbox;display:flex}.teachers_md .item{-webkit-box-shadow:0 10px 15px #d7e6ed;box-shadow:0 10px 15px #d7e6ed;width:23%;margin:1%;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;overflow:hidden}.teachers_md .item .img{height:230px;background-size:cover;-ms-flex-negative:0;flex-shrink:0;background-position:50%;-webkit-transition:.3s;-o-transition:.3s;transition:.3s;cursor:pointer;position:relative}.teachers_md .item .img:hover{-webkit-transform:scale(1.05);-ms-transform:scale(1.05);transform:scale(1.05)}.teachers_md .item .content,.teachers_md .item .hidden-info{height:100%;padding:1.5rem;background:#fff;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}.teachers_md .item.opened .content,.teachers_md .item.opened .img{display:none}.teachers_md .item.opened .hidden-info{display:-webkit-box;display:-ms-flexbox;display:flex}.teachers_md .item .hidden-info{display:none}.teachers_md .item .name{font-size:1.3rem;font-weight:700;line-height:1.5;margin-bottom:.5rem}.teachers_md .item .des{font-weight:400;line-height:1.5;margin-bottom:3rem}.teachers_md .item .btn{text-transform:uppercase;font-weight:700;color:#78c2ff;cursor:pointer;-webkit-transition:.3s;-o-transition:.3s;transition:.3s}.teachers_md .item .btn:hover{text-decoration:underline}.callback_md{display:-webkit-box;display:-ms-flexbox;display:flex;width:100%;-webkit-box-shadow:0 4px 10px rgba(205,214,221,.59);box-shadow:0 4px 10px rgba(205,214,221,.59)}.callback_md .btn_md{-ms-flex-negative:0;flex-shrink:0}.callback_md .input{width:100%;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end;padding:0 1rem}.callback_md .input input{text-align:right;border:none;padding:.5rem;outline:none;font-size:1.1rem;width:100%}.callback_md .input input::-webkit-input-placeholder{font-size:.9rem;color:#c2c2c2}.callback_md .input input::-moz-placeholder{font-size:.9rem;color:#c2c2c2}.callback_md .input input:-ms-input-placeholder{font-size:.9rem;color:#c2c2c2}.callback_md .input input::-ms-input-placeholder{font-size:.9rem;color:#c2c2c2}.callback_md .input input::placeholder{font-size:.9rem;color:#c2c2c2}.title_md.upper{text-transform:uppercase}.title_md.tac{text-align:center}.title_md.white{color:#fff}.title_md.big{font-size:3rem;font-weight:700}.title_md.semibig{font-size:2rem;font-weight:700;line-height:1.5}.title_md.middle{font-size:1.2rem}.title_md.middle,.title_md.small{font-weight:400;line-height:1.5;width:70%}.title_md.small{font-size:1.1rem}.btn_md,.title_md.bold{font-weight:700}.btn_md{text-transform:uppercase;font-size:.8rem;padding:1.1rem 4rem;display:inline-block;border-radius:50px}.btn_md.short{padding:1.1rem 2rem}.btn_md.blue{background-color:#78c2ff;color:#fff}.btn_md.lightblue-shadow{-webkit-box-shadow:0 10px 15px #d7e6ed;box-shadow:0 10px 15px #d7e6ed}.btn_md.dark-shadow{-webkit-box-shadow:0 4px 4px rgba(0,0,0,.25);box-shadow:0 4px 4px rgba(0,0,0,.25)}.btn_md.no-bg-dark{background-color:rgba(0,0,0,0);color:#2e4557;border:1px solid #2e4557;-webkit-transition:.3s;-o-transition:.3s;transition:.3s;cursor:pointer}.btn_md.no-bg-dark:hover{background-color:#2e4557;color:#fff}.btn_md.square{border-radius:0}.logo_md{height:30px;width:100px;background-size:cover;background-position:0}.logo_md.dark{background-image:url(https://files.bizzon.online/mainpage-v2/img/logo_dark.png)}.logo_md.white{background-image:url(https://files.bizzon.online/mainpage-v2/img/logo_white.png)}.main-section_ar{background:-o-linear-gradient(354.18deg,#ebf2f4 0,#fff 101.06%);background:linear-gradient(95.82deg,#ebf2f4,#fff 101.06%)}.main-section_ar .main-screen-text_ar>.content-wrapper_ar{min-height:calc(100vh - 80px);padding-top:80px;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.main-section_ar .main-screen-text_ar>.content-wrapper_ar>div{margin-top:-80px}.main-section_ar .main-screen-text_ar>.content-wrapper_ar .title-box_md{padding-right:3rem}.courses-section_ar{position:relative}.courses-section_ar>.dark-div{width:50vw;height:100%;position:absolute;right:0;top:0;background:-o-linear-gradient(308.25deg,#002747 0,#001e36 106.59%);background:linear-gradient(141.75deg,#002747,#001e36 106.59%)}.courses-section_ar>.content-wrapper_ar{display:-webkit-box;display:-ms-flexbox;display:flex}.courses-section_ar>.content-wrapper_ar>div{-webkit-box-flex:1;-ms-flex:1;flex:1;z-index:1}.courses-section_ar>.content-wrapper_ar>.leftside{padding-right:4rem;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:end;-ms-flex-align:end;align-items:flex-end}.courses-section_ar>.content-wrapper_ar>.leftside .courses-tabs_md,.courses-section_ar>.content-wrapper_ar>.leftside .title_md.semibig{margin-bottom:6rem}.courses-section_ar>.content-wrapper_ar>.rightside{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;padding-left:4rem}.teachers-section_ar{background:-o-linear-gradient(354.18deg,#ebf2f4 0,#fff 101.06%);background:linear-gradient(95.82deg,#ebf2f4,#fff 101.06%)}.teachers-section_ar .title_md{margin-bottom:5rem}.content-wrapper_ar{width:1200px;padding-left:10px;padding-right:10px;margin:0 auto}.content-wrapper_ar.padding{padding-top:10rem;padding-bottom:10rem}body{font-family:Raleway;font-size:.9rem;color:#2e4557}
